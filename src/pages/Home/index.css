@@ -23,6 +23,7 @@ p {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: '#fff';
+  background-image: linear-gradient(-90deg, rgb(151, 2, 89), rgb(9, 119, 110));
 }
 
 .App-link {
